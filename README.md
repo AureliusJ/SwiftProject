@@ -7,7 +7,7 @@ A native iOS task management app built with SwiftUI, developed collaboratively b
 ## Preview
 
 <p align="center">
-  <img src="screenshots/app-preview.png" alt="JJ To-Do List Home Screen" width="300"/>
+  <img src="screenshots/image.png" alt="JJ To-Do List Home Screen" width="300"/>
 </p>
 
 ---
@@ -123,7 +123,7 @@ No third-party dependencies or package managers are required — the project use
 |---|---|---|
 | Category filters, priority indicators, and grid layout | Browse tasks by date with the built-in calendar | Manage notifications, theme, and reminders |
 
-![JJ To-Do List App Preview](screenshots/app-preview.png)
+![JJ To-Do List App Preview](screenshots/image.png)
 
 ---
 
