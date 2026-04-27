@@ -123,7 +123,7 @@ No third-party dependencies or package managers are required — the project use
 |---|---|---|
 | Category filters, priority indicators, and grid layout | Browse tasks by date with the built-in calendar | Manage notifications, theme, and reminders |
 
-![alt text](image.png)
+![JJ To-Do List App Preview](screenshots/app-preview.png)
 
 ---
 
